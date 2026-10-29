@@ -143,8 +143,8 @@ Add screenshots here, for example:
 
 ## Author
 
-**jessyH2**
-GitHub: [github.com/jessyH2](https://github.com/jessyH2)
+**wyne4rest-afk**
+GitHub: [github.com/wyne4rest-afk](https://github.com/wyne4rest-afk)
 
 ## License
 
