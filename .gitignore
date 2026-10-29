@@ -1,0 +1,9 @@
+# C++ / CMake build outputs
+build/
+bin/
+obj/
+*.o
+*.exe
+
+# VS Code
+.vscode/

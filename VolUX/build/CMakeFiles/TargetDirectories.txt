@@ -1,0 +1,3 @@
+C:/Users/user_0/Documents/Codes/VolUX(Windows)/build/CMakeFiles/VolUX.dir
+C:/Users/user_0/Documents/Codes/VolUX(Windows)/build/CMakeFiles/edit_cache.dir
+C:/Users/user_0/Documents/Codes/VolUX(Windows)/build/CMakeFiles/rebuild_cache.dir

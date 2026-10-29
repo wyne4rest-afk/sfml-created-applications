@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/user_0/Documents/Codes/VolUX(Windows)/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/VolUX.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\VolUX.dir\\main.cpp.obj -c C:\\Users\\user_0\\Documents\\Codes\\VolUX(Windows)\\main.cpp",
+  "file": "C:/Users/user_0/Documents/Codes/VolUX(Windows)/main.cpp",
+  "output": "CMakeFiles/VolUX.dir/main.cpp.obj"
+}
+]
